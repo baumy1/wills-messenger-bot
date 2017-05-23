@@ -1,0 +1,12 @@
+{
+  "name": "simplemessengerchatbot",
+  "version": "1.0.0",
+  "description": "This is my test of using Node Js and the Facebook api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "William Baum",
+  "license": "ISC"
+}
